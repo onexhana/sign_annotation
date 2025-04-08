@@ -1,5 +1,3 @@
-# sign_annotation
-
 # 🖐️ Sign Language Keypoint Extractor & Visualizer
 
 이 프로젝트는 **수어(Sign Language) 영상**에서  
