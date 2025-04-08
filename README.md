@@ -1,14 +1,3 @@
-완벽해요!  
-아래는 위에서 정리한 ✅ 기능들과 ✅ 최종 전체 코드의 역할이 잘 드러나도록 구성한 **GitHub용 README.md 템플릿**입니다.
-
-직관적이고 보기 좋게 구성했어요 😊  
-코드를 바로 GitHub에 올리면 이대로 사용하셔도 됩니다!
-
----
-
-## 📄 `README.md` 예쁘고 정리된 버전
-
-```markdown
 # 🖐️ Sign Language Keypoint Extractor & Visualizer
 
 이 프로젝트는 **수어(Sign Language) 영상**에서  
